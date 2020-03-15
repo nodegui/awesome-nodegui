@@ -1,4 +1,4 @@
-# Awesome NodeGui [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NodeGui [![Awesome](https://awesome.re/badge.svg)](https://github.com/nodegui/awesome-nodegui)
 
 [<img src="https://github.com/nodegui/nodegui/raw/master/extras/logo/nodegui-circle.png" align="right" width="100">](https://docs.nodegui.org)
 
