@@ -36,6 +36,7 @@ Made with NodeGui
 
 - [Official Examples repo](https://github.com/nodegui/examples) - Sample apps illustrating usage of NodeGui APIs.
 - [Markdown editor in NodeGui](https://github.com/master-atul/mdview-nodegui) - A Markdown editor in NodeGui under 200 lines of code.
+- [List of apps or packages using NodeGui](https://github.com/nodegui/nodegui/network/dependents) - List from Github
 
 ## Boilerplates
 
