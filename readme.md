@@ -41,6 +41,7 @@ Made with NodeGui
 
 - [NodeGui starter](https://github.com/nodegui/nodegui-starter) - A starter repo for NodeGui projects
 - [React NodeGui starter](https://github.com/nodegui/react-nodegui-starter) - Starter repository for react based native desktop apps using react-nodegui
+- [React NodeGui Neutrino preset](https://github.com/constgen/neutrino-preset-react-nodegui) - [Neutrino preset](https://neutrinojs.org/presets/) for React NodeGui.
 
 ## Tools
 
