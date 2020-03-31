@@ -50,6 +50,7 @@ Tools for NodeGui
 
 - [NodeGui Packer](https://github.com/nodegui/packer) - Create installers and distributables for NodeGui apps.
 - [React NodeGui Testing library](https://github.com/fnky/react-nodegui-testing-library) - Simple React NodeGui testing utilities that encourage good testing practices 🦋 - by [@fnky](https://github.com/fnky)
+- [React Native like stylesheet for React NodeGui](https://github.com/Solant/nodegui-stylesheet) by [@Solant](https://github.com/Solant) - https://github.com/Solant/nodegui-stylesheet
 
 ## Plugins
 
