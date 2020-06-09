@@ -77,7 +77,9 @@ Plugins that add additional native features to NodeGui apps
 
 -   [Electron alternatives: Exploring NodeGUI and React NodeGUI by Siegfried Grimbeek](https://blog.logrocket.com/electron-alternatives-exploring-nodegui-and-react-nodegui/)
 
--   [Getting Started with NodeGUI - James Hibbard](https://hibbard.eu/node-gui/)
+-  [Getting Started with NodeGUI - James Hibbard](https://hibbard.eu/node-gui/)
+
+- [Building Native Desktop Apps with React Node GUI - Nathan Sebhastian](https://blog.bitsrc.io/building-native-desktop-application-with-react-node-gui-2ce1b2a2164)
 
 ## Videos
 
