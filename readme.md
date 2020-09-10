@@ -20,7 +20,7 @@
 ## Renderers
 
 -   [React NodeGui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
--   [Vue on Desktop](https://github.com/nodegui/vue-nodegui) - Vue renderer for NodeGui.
+-   [Vue NodeGui](https://github.com/nodegui/vue-nodegui) - Vue renderer for NodeGui.
 
 #### Unofficial/Community renderers
 
