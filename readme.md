@@ -35,6 +35,7 @@ Made with NodeGui
 -   [Mysterium VPN client](https://github.com/mysteriumnetwork/mysterium-vpn2) - Decentralised VPN built on blockchain.
 -   [Meme legend](https://github.com/master-atul/meme-legend) - Meme legend lets you type emojis, gifs or stickers quickly. Works on Mac, Windows and Linux.
 -   [Emoji picker](https://github.com/slidinghotdog/emoji-picker) - Just click to copy your Emoji
+-   [Spotube](https://github.com/KRTirtho/spotube) - A lightweight Spotify desktop-client which streams music using Youtube & fetches data using spotify-web-api
 
 ### Samples and Experiments
 
