@@ -86,6 +86,8 @@ Plugins that add additional native features to NodeGui apps
 
 - [Building Native Desktop Apps with React Node GUI - Nathan Sebhastian](https://blog.bitsrc.io/building-native-desktop-application-with-react-node-gui-2ce1b2a2164)
 
+- [NodeGUI React Component by Component - Greg Benner](https://dev.to/jswhisperer/nodegui-react-component-by-component-b98)
+
 ## Videos
 
 -   [Getting started with NodeGui and React NodeGui at KarmaJS meetup November 2019](https://www.youtube.com/watch?v=8jH5gaEEDv4)
