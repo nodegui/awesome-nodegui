@@ -69,6 +69,7 @@ Plugins that add additional native features to NodeGui apps
 -   [nodegui-plugin-title-bar](https://github.com/nodegui/nodegui-plugin-title-bar) - Plugin for NodeGUI to hide macOS title bar and leave only traffic lights.
 -   [nodegui-plugin-webview](https://github.com/nodegui/nodegui-plugin-webview) - A NodeGui plugin that adds webview support.
 -   [@nodegui/devtools](https://github.com/nodegui/devtools) - React NodeGui's devtools support module.
+-   [nodegui-plugin-multimedia](https://codeberg.org/ggtyler/nodegui-plugin-multimedia) - A NodeGui plugin that provides Qt Multimedia support.
 
 ## Documentation
 
